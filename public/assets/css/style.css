@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+ul li {
+    list-style-type: none;
+}
+
+.box-back {
+    height: 952px;
+    background-color: rgba(59, 124, 161, 0.842);
+}
+
+.box-back-color-1 {
+    background-color: rgba(255, 68, 0, 0.705);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.box-back-color-2 {
+    background-color: purple;
+    padding: 25px 20px;
+    border-radius: 20px;
+}
+
+.box-back-color-3 {
+    background-color: darkgreen;
+    padding: 25px 20px;
+    border-radius: 20px;
+}
