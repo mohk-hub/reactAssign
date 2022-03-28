@@ -114,12 +114,19 @@
   border-left: none;
   border-right: none;
   background: transparent;
-  outline: none;  
 }
-  
+
 .booking-form textarea {
   border-top: none;
   border-left: none;
   border-right: none;
   background: transparent;
+}
+
+.g-signin{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
 }
